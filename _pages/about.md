@@ -1,3 +1,4 @@
+<font size=3>
 ---
 permalink: /
 title: "About Me"
@@ -33,3 +34,4 @@ Selected Publications
    Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo  
    Advances in Neural Information Processing Systems 35 (NeurIPS 2022, Spotlight}   
 
+</font>
