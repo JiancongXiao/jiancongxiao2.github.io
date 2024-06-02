@@ -12,42 +12,24 @@ redirect_from:
  	
 I am currently a postdoctoral researcher at the University of Pennsylvania, working with Prof. Qi Long and Prof. Weijie J. Su. I earned my Ph.D. from The Chinese University of Hong Kong, Shenzhen, where I was advised by Prof. Zhi-Quan (Tom) Luo and worked closely with Prof. Ruoyu Sun. Prior to that, I received my M.S. degree from The Chinese University of Hong Kong and my B.S. degree from Sun Yat-sen University.
 
+Research Interest
+======
+1. Machine Learning Theory  
+2. Adversarial Robustness
 
 
 Selected Publications
 ======
-1. 
+1. Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization
+   Jiancong Xiao, Ruoyu Sun, Qi Long, Weijie J. Su
+   37th Annual Conference on Learning Theory (COLT 2024)
 1. Uniformly Stable Algorithms for Adversarial Training and Beyond.  
-   <font size=3>Jiancong Xiao, Jiawei Zhang, Zhi-Quan Luo, Asuman Ozdaglar</font>  
-   Proceedings of the 41th International Conference on Machine Learning (ICML 2024)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+   Jiancong Xiao, Jiawei Zhang, Zhi-Quan Luo, Asuman Ozdaglar  
+   Proceedings of the 41th International Conference on Machine Learning (ICML 2024)  
+1. PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization.  
+   Jiancong Xiao, Ruoyu Sun, Zhi- Quan Luo  
+   Advances in Neural Information Processing Systems 36 (NeurIPS 2023}  
 1. Stability Analysis and Generalization Bounds of Adversarial Training.  
-  \textbf{Jiancong Xiao} and Fan, Yanbo and Sun, Ruoyu and Wang, Jue and Luo, Zhi-Quan  
-  Advances in Neural Information Processing Systems (\textbf{NeurIPS}), \textbf{Spotlight}}  
+   Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo  
+   Advances in Neural Information Processing Systems 35 (NeurIPS 2022, Spotlight}   
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
