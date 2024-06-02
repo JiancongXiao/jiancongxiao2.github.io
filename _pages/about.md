@@ -21,8 +21,8 @@ Research Interest
 Selected Publications
 ======
 1. Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization  
-   Jiancong Xiao, Ruoyu Sun, Qi Long, Weijie J. Su
-   37th Annual Conference on Learning Theory (COLT 2024)
+   Jiancong Xiao, Ruoyu Sun, Qi Long, Weijie J. Su  
+   37th Annual Conference on Learning Theory (COLT 2024)  
 1. Uniformly Stable Algorithms for Adversarial Training and Beyond.  
    Jiancong Xiao, Jiawei Zhang, Zhi-Quan Luo, Asuman Ozdaglar  
    Proceedings of the 41th International Conference on Machine Learning (ICML 2024)  
