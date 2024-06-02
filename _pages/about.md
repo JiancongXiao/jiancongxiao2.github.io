@@ -19,9 +19,9 @@ Research Interest
 
 Selected Publications
 ======
-1. ``COLT 2024`` Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization  
-   Jiancong Xiao, Ruoyu Sun, Qi Long, Weijie J. Su  
-   37th Annual Conference on Learning Theory (COLT 2024)  
+1. Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization  
+   **Jiancong Xiao**, Ruoyu Sun, Qi Long, Weijie J. Su  
+   37th Annual Conference on Learning Theory ``COLT 2024``
 1. Uniformly Stable Algorithms for Adversarial Training and Beyond.  
    Jiancong Xiao, Jiawei Zhang, Zhi-Quan Luo, Asuman Ozdaglar  
    Proceedings of the 41th International Conference on Machine Learning (ICML 2024)  
@@ -30,5 +30,5 @@ Selected Publications
    Advances in Neural Information Processing Systems 36 (NeurIPS 2023}  
 1. Stability Analysis and Generalization Bounds of Adversarial Training.  
    Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo  
-   Advances in Neural Information Processing Systems 35 (NeurIPS 2022, Spotlight)   
+   Advances in Neural Information Processing Systems 35 [``NeurIPS 2022, Spotlight``](https://proceedings.neurips.cc/paper_files/paper/2022/hash/637de5e2a7a77f741b0b84bd61c83125-Abstract-Conference.html) 
 
