@@ -9,14 +9,16 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+ 	
+I am currently a postdoctoral researcher at the University of Pennsylvania, working with Prof. Qi Long and Prof. Weijie J. Su. I earned my Ph.D. from The Chinese University of Hong Kong, Shenzhen, where I was advised by Prof. Zhi-Quan (Tom) Luo and worked closely with Prof. Ruoyu Sun. Prior to that, I received my M.S. degree from The Chinese University of Hong Kong and my B.S. degree from Sun Yat-sen University.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
 
 Selected Publications
 ======
+1. 
 1. Uniformly Stable Algorithms for Adversarial Training and Beyond.  
    Jiancong Xiao, Jiawei Zhang, Zhi-Quan Luo, Asuman Ozdaglar  
    Proceedings of the 41th International Conference on Machine Learning (ICML 2024)
@@ -24,7 +26,9 @@ Selected Publications
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Stability Analysis and Generalization Bounds of Adversarial Training.  
+  \textbf{Jiancong Xiao} and Fan, Yanbo and Sun, Ruoyu and Wang, Jue and Luo, Zhi-Quan  
+  Advances in Neural Information Processing Systems (\textbf{NeurIPS}), \textbf{Spotlight}}  
 
 Site-wide configuration
 ------
