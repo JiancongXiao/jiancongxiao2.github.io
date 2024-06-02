@@ -18,7 +18,7 @@ Selected Publications
 ======
 1. 
 1. Uniformly Stable Algorithms for Adversarial Training and Beyond.  
-   <font size=3>**Jiancong Xiao**, Jiawei Zhang, Zhi-Quan Luo, Asuman Ozdaglar</font>
+   <font size=1>**Jiancong Xiao**, Jiawei Zhang, Zhi-Quan Luo, Asuman Ozdaglar</font>  
    Proceedings of the 41th International Conference on Machine Learning (ICML 2024)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
