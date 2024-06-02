@@ -1,5 +1,14 @@
-About Me
-======
+---
+permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
  	
 I am currently a postdoctoral researcher at the University of Pennsylvania, working with Prof. Qi Long and Prof. Weijie J. Su. I earned my Ph.D. from The Chinese University of Hong Kong, Shenzhen, where I was advised by Prof. Zhi-Quan (Tom) Luo and worked closely with Prof. Ruoyu Sun. Prior to that, I received my M.S. degree from The Chinese University of Hong Kong and my B.S. degree from Sun Yat-sen University.
 
