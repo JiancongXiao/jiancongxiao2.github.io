@@ -31,7 +31,7 @@ Selected Publications
    **Jiancong Xiao**, Ruoyu Sun, Qi Long, Weijie J. Su  
    37th Annual Conference on Learning Theory
 1. ``ICML 2024`` **Uniformly Stable Algorithms for Adversarial Training and Beyond**  
-   **Jiancong Xiao***, Jiawei Zhang*, Zhi-Quan Luo, Asuman Ozdaglar  
+   **Jiancong Xiao** *, Jiawei Zhang *, Zhi-Quan Luo, Asuman Ozdaglar  
    Proceedings of the 41th International Conference on Machine Learning [[paper]](https://arxiv.org/abs/2405.01817)  
 1. ``NeurIPS 2023`` **PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization**  
    **Jiancong Xiao**, Ruoyu Sun, Zhi-Quan Luo  
