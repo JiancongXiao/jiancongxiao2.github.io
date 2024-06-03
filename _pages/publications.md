@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
 Recent Paper
 ======
 1. **On the Algorithmic Bias of Aligning Large Language Models with RLHF: Preference Collapse and Matching Regularization**  
@@ -26,8 +32,4 @@ Selected Publications
    **Jiancong Xiao**, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo  
    Advances in Neural Information Processing Systems 35 **Spotlight** [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/637de5e2a7a77f741b0b84bd61c83125-Abstract-Conference.html) 
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
