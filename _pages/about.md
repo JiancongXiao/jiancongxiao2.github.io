@@ -23,7 +23,7 @@ Recent Paper
 ======
 1. **On the Algorithmic Bias of Aligning Large Language Models with RLHF: Preference Collapse and Matching Regularization**  
    **Jiancong Xiao**, Ziniu Li, Xingyu Xie, Emily Getzen, Cong Fang, Qi Long, Weijie J. Su  
-   [[arXiv:2405.16455]](https://arxiv.org/abs/2405.16455)
+   [[arXiv:2405.16455](https://arxiv.org/abs/2405.16455)]
 
 Selected Publications
 ======
@@ -35,8 +35,8 @@ Selected Publications
    Proceedings of the 41th International Conference on Machine Learning [[paper]](https://arxiv.org/abs/2405.01817)  
 1. ``NeurIPS 2023`` **PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization**  
    **Jiancong Xiao**, Ruoyu Sun, Zhi-Quan Luo  
-   Advances in Neural Information Processing Systems 36 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/720991812855c99df50bc8b36966cd81-Abstract-Conference.html)
+   Advances in Neural Information Processing Systems 36 [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/720991812855c99df50bc8b36966cd81-Abstract-Conference.html)]
 1. ``NeurIPS 2022`` **Stability Analysis and Generalization Bounds of Adversarial Training**  
    **Jiancong Xiao**, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo  
-   Advances in Neural Information Processing Systems 35, **Spotlight** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/637de5e2a7a77f741b0b84bd61c83125-Abstract-Conference.html) 
+   Advances in Neural Information Processing Systems 35, **Spotlight** [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/637de5e2a7a77f741b0b84bd61c83125-Abstract-Conference.html)]  
 
