@@ -20,13 +20,13 @@ Selected Publications
    
 1. **Uniformly Stable Algorithms for Adversarial Training and Beyond**  
    **Jiancong Xiao** *, Jiawei Zhang *, Zhi-Quan Luo, Asuman Ozdaglar  
-   Proceedings of the 41th International Conference on Machine Learning ``ICML 2024`` [[paper](https://arxiv.org/abs/2405.01817)]  
-   NeurIPS 2022 ML Safety Workshop [[Workshop Version](https://openreview.net/forum?id=4rksWKdGovR)]  
+   Proceedings of the 41th International Conference on Machine Learning ``ICML 2024``
+   [[paper](https://arxiv.org/abs/2405.01817)] [[Workshop Version](https://openreview.net/forum?id=4rksWKdGovR)]  
    
 1. **PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization**  
    **Jiancong Xiao**, Ruoyu Sun, Zhi-Quan Luo  
-   Advances in Neural Information Processing Systems 36 ``NeurIPS 2023`` [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/720991812855c99df50bc8b36966cd81-Abstract-Conference.html)]  
-   2nd AdvML Frontiers workshop at 40th International Conference on Machine Learning [[Workshop version](https://openreview.net/pdf?id=CG0oM1LmbP)]  
+   Advances in Neural Information Processing Systems 36 ``NeurIPS 2023``
+   [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/720991812855c99df50bc8b36966cd81-Abstract-Conference.html)] [[Workshop version](https://openreview.net/pdf?id=CG0oM1LmbP)]  
    
 1. **Stability Analysis and Generalization Bounds of Adversarial Training**  
    **Jiancong Xiao**, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo  
