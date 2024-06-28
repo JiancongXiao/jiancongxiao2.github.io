@@ -15,7 +15,7 @@ Selected Publications
 ======
 1. **Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization**  
    **Jiancong Xiao**, Ruoyu Sun, Qi Long, Weijie J. Su  
-   37th Annual Conference on Learning Theory ``COLT 2024``
+   37th Annual Conference on Learning Theory ``COLT 2024``  
    [[paper](https://arxiv.org/abs/2406.05372)]
    
 1. **Uniformly Stable Algorithms for Adversarial Training and Beyond**  
