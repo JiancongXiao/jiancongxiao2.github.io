@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Selected Publications
+Conference Paper
 ======
 1. **Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization**  
    **Jiancong Xiao**, Ruoyu Sun, Qi Long, Weijie J. Su  
@@ -52,8 +52,8 @@ Journal Paper under Review
    
 Workshop Paper 
 ======
-**Improving Adversarial Training for Multiple Perturbations through the Lens of Uniform Stability**  
-**Jiancong Xiao**, Zeyu Qin, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo  
-2nd AdvML Frontiers workshop at 40th International Conference on Machine Learning  
-[[paper](https://openreview.net/pdf?id=qvALKz8BUV)]  
+1. **Improving Adversarial Training for Multiple Perturbations through the Lens of Uniform Stability**  
+   **Jiancong Xiao**, Zeyu Qin, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo  
+   2nd AdvML Frontiers workshop at 40th International Conference on Machine Learning  
+   [[paper](https://openreview.net/pdf?id=qvALKz8BUV)]  
 
