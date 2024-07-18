@@ -49,11 +49,18 @@ Journal Paper under Review
    **Jiancong Xiao**, Liusha Yang, Yanbo Fan, Jue Wang, Zhi-Quan Luo  
    Submitted to Pattern Recognition (PR), Minor Revision.  
    [[arXiv](https://arxiv.org/abs/2210.00430)]  
+
+Preprints
+======
+1. **Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic**  
+   Ruochen Jin, Bojian Hou, **Jiancong Xiao**, Weijie Su, Li Shen  
+   [[arXiv](https://arxiv.org/abs/2407.07089)]  
    
-Workshop Paper 
+Workshop Paper
 ======
 1. **Improving Adversarial Training for Multiple Perturbations through the Lens of Uniform Stability**  
    **Jiancong Xiao**, Zeyu Qin, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo  
    2nd AdvML Frontiers workshop at 40th International Conference on Machine Learning  
    [[paper](https://openreview.net/pdf?id=qvALKz8BUV)]  
+
 
